@@ -1,6 +1,6 @@
 # Robotic Arm Assembly
 
-![Robotic Arm Assembly](imeges/Robotic arm.png)
+![Robotic Arm Assembly](imeges/Robotic-arm.png)
 
 ## Overview
 This project focuses solely on the mechanical **assembly** of a robotic arm system.  
