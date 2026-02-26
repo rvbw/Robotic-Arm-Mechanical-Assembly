@@ -23,3 +23,6 @@ This assembly was created **for learning and practice purposes only**, as part o
 
 ## Onshape Link
 [View Assembly on Onshape](https://cad.onshape.com/documents/e3bd8ec72fd1965c7c460045/w/efc5c314086b705bb97cb7f0/e/3194d0fbfa50916d6639673b?renderMode=0&uiState=697a6b44dffb941bdd34b9a5)
+
+## Youtube Link
+[View The video](https://youtu.be/KVSKOFohiUA)
